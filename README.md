@@ -1,4 +1,4 @@
-A simple Flask-based blog for Sigmas
+A very simple Flask-based blog for Sigmas
 
 Installation: pip install Flask
 
